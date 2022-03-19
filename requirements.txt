@@ -2,3 +2,8 @@ torch
 torchvision
 tqdm
 matplotlib
+tensorflow-macos
+tensorflow-metal
+imageio
+Pillow
+tensorlayer
