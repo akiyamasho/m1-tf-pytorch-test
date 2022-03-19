@@ -1,0 +1,16 @@
+env/
+venv/
+.idea/
+.history
+.pytest_cache
+__pycache__
+
+.server.py.swp
+.env
+
+.DS_Store
+.python-version
+
+.ipynb_checkpoints/
+
+*.rdb
